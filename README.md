@@ -1,6 +1,6 @@
 # Алгоритмизация и программирование
 
-Автор: Фамилия Имя
+Автор: Бужуров Эмир
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
@@ -24,7 +24,6 @@
 | [18. Заголовок столбца Excel](./contest_01/18/main.cpp) | ![](./img/cpp.png) |
 | [19. Подходящие Слова](./contest_01/19/main.cpp) | ![](./img/cpp.png) |
 | [20. Анаграмма. 2 числа](./contest_01/20/main.cpp) | ![](./img/cpp.png) |
-| ... | ... |
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
