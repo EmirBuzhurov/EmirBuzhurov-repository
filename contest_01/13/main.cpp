@@ -2,8 +2,7 @@
 #include <math.h>
 using namespace std;
 
-int main()
-{
+int main() {
     setlocale(LC_ALL, "Russian");
     int len, o = 1, j, k=1, i=1;
     cin >> len;
