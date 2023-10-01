@@ -11,10 +11,8 @@ func isPalindrome(s string) bool {
   return -1
  }, normalized)
  normalized = strings.Replace(normalized, " ", "", -1)
-
  left := 0
  right := len(normalized) - 1
-
  for left <= right {
   if normalized[left] != normalized[right] {
    return false
@@ -22,6 +20,5 @@ func isPalindrome(s string) bool {
   left++
   right--
  }
-
  return true
 }
