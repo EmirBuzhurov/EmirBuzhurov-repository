@@ -10,7 +10,6 @@ std::tuple<int, int> reduce(int n, int m) {
     }
     return std::make_tuple(n, m);
 }
-
 std::tuple<int, int, int> find_lcm(int n1, int n2) {
     int lcm = n1;
     int c1 = 1, c2 = 1;
