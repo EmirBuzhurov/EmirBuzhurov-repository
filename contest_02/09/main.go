@@ -1,5 +1,4 @@
 import "strconv"
-
 func isLucky(n string) bool {
  if len(n) != 6 {
   return false
