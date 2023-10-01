@@ -2,11 +2,9 @@
 #include <string>
 #include <sstream>
 #include <set>
-
 using namespace std;
 
-int main()
-{
+int main() {
 	string text;
 	getline(cin, text);
 	int len = text.length();
@@ -16,7 +14,6 @@ int main()
 	stringstream ss(text);
 	string word;
 	set<string> res;
-
 	while (ss >> word) {
 		int d = 0;
 		int pos = text.find(word);
@@ -33,7 +30,5 @@ int main()
 	for (string s : res) {
 		cout << s << " ";
 	}
-
-
 	return 0;
 }
