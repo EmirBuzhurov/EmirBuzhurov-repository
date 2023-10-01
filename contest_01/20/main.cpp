@@ -1,11 +1,9 @@
 #include <iostream>
 #include <algorithm>
 #include <string>
-
 using namespace std;
 
-int main()
-{
+int main() {
     string a, b;
     cin >> a >> b;
     int i = 0;
