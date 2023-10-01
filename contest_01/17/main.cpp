@@ -1,10 +1,8 @@
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
-int main()
-{
+int main() {
 	long int n, d, res;
 	res = 0;
 	cin >> n;
@@ -28,8 +26,6 @@ int main()
 		}
 	}
 	cout << res;
-
-
 	return 0;
 }
 
