@@ -1,7 +1,6 @@
 func fill(maze [][]int) {
     rows := len(maze)
     cols := len(maze[0])
-
     for i := 0; i < rows; i++ {
         for j := 0; j < cols; j++ {
             if maze[i][j] != -1 {
