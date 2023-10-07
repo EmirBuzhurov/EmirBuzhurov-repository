@@ -35,6 +35,10 @@
 | [6. Функция. Список студентов](./contest_02/06/main.cpp) |  ![](./img/cpp.png) |
 | [7. Кандидаты на отчисление](./contest_02/07/main.cpp) |  ![](./img/cpp.png) |
 | [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) |  ![](./img/go.png) |
+| [9. Функция. Счастливый билет](./contest_02/09/main.go) |  ![](./img/go.png) |
+| [10. Функция. Сдвиг элементов массива](./contest_02/10/main.go) |  ![](./img/go.png) |
+| [11. Функция. Валидатор судоку](./contest_02/11/main.go) |  ![](./img/go.png) |
+| [12. Функция. Сапёр (поле)](./contest_02/12/main.go) |  ![](./img/go.png) |
 
 |[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
