@@ -52,7 +52,7 @@
 | [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
 
-|[Контест 3](https://contest.yandex.ru/contest/54625/problems/) |  |
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
 | [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
 | [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
